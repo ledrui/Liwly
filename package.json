@@ -1,0 +1,22 @@
+{
+  "name": "Liwly",
+  "version": "1.0.0",
+  "description": "Twiter clone using nodejs server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ledrui/Liwly.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ledrui/Liwly/issues"
+  },
+  "homepage": "https://github.com/ledrui/Liwly",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
