@@ -1,2 +1,2 @@
 # Liwly
-Twiter clone using nodejs server
+Twitter clone using nodejs server
